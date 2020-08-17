@@ -1,3 +1,3 @@
 # goodbye
 
-sayonara
+sayonara!
